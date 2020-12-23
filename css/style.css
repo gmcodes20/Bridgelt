@@ -266,6 +266,9 @@ pre {
 .social a i:hover {
   transform: translateY(-10px);
 }
+.namec {
+  color: var(--primary-color);
+}
 
 /* ANIMATIONS */
 @keyframes slideInFromLeft {
